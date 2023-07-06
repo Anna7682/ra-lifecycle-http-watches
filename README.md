@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/3ldwwu8ufagl9t0y?svg=true)](https://ci.appveyor.com/project/vapanov/ra-lifecycle-http-watches)
+[![Build status](https://ci.appveyor.com/api/projects/status/mmpwagnqbtsdc20q?svg=true)](https://ci.appveyor.com/project/Anna7682/ra-lifecycle-http-watches)
 
 WEB VERSION https://valentin-panov.github.io/ra-lifecycle-http-watches/
 
