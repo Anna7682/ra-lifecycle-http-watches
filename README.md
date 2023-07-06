@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/mmpwagnqbtsdc20q?svg=true)](https://ci.appveyor.com/project/Anna7682/ra-lifecycle-http-watches)
 
-WEB VERSION https://valentin-panov.github.io/ra-lifecycle-http-watches/
+WEB VERSION https://anna7682.github.io/ra-lifecycle-http-watches/
 
 # Мировые часы
 
